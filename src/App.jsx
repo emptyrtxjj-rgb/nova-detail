@@ -30,7 +30,7 @@ function App() {
             <p>Premium Automotive Studio</p>
           </div>
 
-          <p>© 2026 NOVA DETAIL. All rights reserved.</p>
+          <p>© 2026 NOVA DETAIL — Shymkent. All rights reserved.</p>
         </div>
       </footer>
     </>
