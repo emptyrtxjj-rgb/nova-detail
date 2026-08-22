@@ -1,39 +1,49 @@
 # NOVA DETAIL
 
-## Automotive Detailing Landing Page
+Modern automotive detailing landing page concept.
 
-Концепт современного Landing Page для студии автомобильного детейлинга.
+## Overview
 
-## О проекте
+NOVA DETAIL is a conceptual landing page created for a premium automotive detailing business.
 
-Сайт создан с акцентом на премиальный визуальный стиль,
-понятную структуру услуг и удобное взаимодействие с клиентом.
+The project focuses on visual presentation, clear service information, responsive design and conversion-oriented user experience.
 
-## Возможности
+## Live Demo
 
-- Адаптивная верстка
-- Навигация по секциям
-- CSS-анимации
-- Hover-эффекты
-- Интерактивная форма
-- Валидация формы
-- React state
-- Responsive design
+https://nova-detail.vercel.app/
 
-## Технологии
+## Features
+
+- Responsive landing page
+- Modern visual design
+- Hero section
+- Services section
+- About section
+- Portfolio section
+- Testimonials
+- Contact section
+- Interactive buttons
+- Contact form
+- Hover effects
+- Smooth scrolling
+- Mobile optimization
+
+## Tech Stack
 
 - React
-- Vite
 - JavaScript
+- Vite
 - CSS
 - Git
 - GitHub
 - Vercel
 
-## Demo
+## Structure
 
-https://nova-detail.vercel.app
-
-## Статус
-
-Учебный концепт / Portfolio Project
+```text
+src/
+├── components/
+├── assets/
+├── App.jsx
+├── App.css
+└── main.jsx
